@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AyaxYordi
 - 📟 ESFM del IPN
 
 <!---
